@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\BaseController;
 // use App\Models\Post;
 
-class AboutController extends BaseController
+class ContactController extends BaseController
 {
     public function index()
     {
